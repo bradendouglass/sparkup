@@ -1,10 +1,9 @@
 Installation
 ------------
 
-   Copy the contents of vim/ftplugin/ to your ~/.vim/ftplugin directory.
+  Use Pathogen or add it to your u-bear awesome .janus.rake file and
+  have the equally awesome [janus](https://github.com/carlhuda/janus) rake file install it by default.
 
-       (Assuming your current dir is sparkup/vim/)
-       $ cp -R ftplugin ~/.vim/
 
 Configuration
 -------------
